@@ -1,5 +1,14 @@
-$dark-grey: #3f3f3f;
-$grey: #707070;
-$light-grey: #aaaaaa;
-$blue-grey: #2a2f4e;
-$midnight-blue: #000534;
+:root {
+  /* colours */
+  --primary-dark: #14213d;
+  --primary-light: #418aff;
+  --primary-accent: #fca311;
+  --error: #fa2d2d;
+  --success: #49ec30;
+  --warning: #fcd903;
+
+  /* text colours */
+  --text-dark: rgba(20, 33, 61, 0.15);
+  --text-medium: #908e9b;
+  --text-light: #e1dfe9;
+}
