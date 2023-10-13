@@ -1,16 +1,16 @@
 :root {
   /* colours */
-  --primary-dark: #14213d;
-  --primary-light: #418aff;
-  --primary-accent: #fca311;
-  --error: #fa2d2d;
-  --success: #49ec30;
-  --warning: #fcd903;
+  --primary-dark: rgb(20, 33, 61);
+  --primary-light: rgb(65, 138, 255);
+  --primary-accent: rgb(252, 163, 17);
+  --error: rgb(250, 45, 45);
+  --success: rgb(73, 236, 48);
+  --warning: rgb(252, 217, 3);
 
   /* text colours */
   --text-dark: rgba(20, 33, 61, 0.15);
-  --text-medium: #908e9b;
-  --text-light: #e1dfe9;
+  --text-medium: rgb(144, 142, 155);
+  --text-light: rgb(225, 223, 233);
 
   /* spacing */
   --spacing-small1: 0.25rem;
