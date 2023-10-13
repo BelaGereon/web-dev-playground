@@ -22,4 +22,6 @@
   --spacing-large1: 2rem;
   --spacing-large2: 3rem;
   --spacing-large3: 4rem;
+
+  background-color: var(--primary-dark);
 }

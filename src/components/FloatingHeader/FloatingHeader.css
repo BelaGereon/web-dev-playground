@@ -1,0 +1,25 @@
+@import url("../../constants.css");
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: var(--spacing-medium1);
+}
+
+.container {
+  padding: var(--spacing-medium1);
+  width: 90vw;
+  border-radius: var(--spacing-large2);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(var(--spacing-small2));
+  box-shadow: 0 var(--spacing-small1) var(spacing--small2) rgba(0, 0, 0, 0.1);
+  border-right-color: rgba(144, 142, 155, 0.2);
+  border-bottom-color: rgba(144, 142, 155, 0.2);
+  overflow: hidden;
+}
+
+.header {
+  color: var(--text-light);
+}
