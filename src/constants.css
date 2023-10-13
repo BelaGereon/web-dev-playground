@@ -11,4 +11,15 @@
   --text-dark: rgba(20, 33, 61, 0.15);
   --text-medium: #908e9b;
   --text-light: #e1dfe9;
+
+  /* spacing */
+  --spacing-small1: 0.25rem;
+  --spacing-small2: 0.5rem;
+  --spacing-small3: 0.75rem;
+  --spacing-medium1: 1rem;
+  --spacing-medium2: 1.25rem;
+  --spacing-medium3: 1.5rem;
+  --spacing-large1: 2rem;
+  --spacing-large2: 3rem;
+  --spacing-large3: 4rem;
 }
