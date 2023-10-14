@@ -1,7 +1,7 @@
 import React from "react";
-import "./FloatingHeader.css";
+import "./Header.css";
 
-const FloatingHeader = () => {
+const Header = () => {
   return (
     <div className="wrapper">
       <div className="container">
@@ -11,4 +11,4 @@ const FloatingHeader = () => {
   );
 };
 
-export default FloatingHeader;
+export default Header;
